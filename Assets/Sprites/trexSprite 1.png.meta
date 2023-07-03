@@ -1,0 +1,1841 @@
+fileFormatVersion: 2
+guid: 68e172b932ac6c8439fd64442dd4cbe7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 82, z: 0, w: 58}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trexSprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe07478e6271094cb783d427a3fb40d
+      internalID: -818719448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65cec123b980b148b97e37a0d9b9069
+      internalID: 53504853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 135
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07c2027d4e7134ebb4231d9752e737
+      internalID: -1645496903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63989b26fb32ae41b1bb1bff92c2a4e
+      internalID: -655772498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 113
+        width: 102
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6f36eadcbce1498c20005b2ec16cb
+      internalID: -1798292042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 98
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31aac26003e014fa3038cc2162451c
+      internalID: 754405277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 98
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a9b68085fd3c4ab08ac635446a20f
+      internalID: -1765282423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 98
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f36ab30d1ddb84585efa06e48496c8
+      internalID: -2074649536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 108
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb60270311ec974cab74fb51ade4576
+      internalID: -920383934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 108
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db4242cadc6aa4582bd7a8e6cba4e6
+      internalID: 324392581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 108
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7b4f68a45cb448b0e316116c97b07
+      internalID: 32880340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 108
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d43a8375c79554ca54ba8371db8189
+      internalID: 771270797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 108
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9152292467b047a7308b9ede7138d
+      internalID: -405380836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 108
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5bd511646bba44c943f841c36b2653
+      internalID: 582065165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 108
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761da87dfca64e4f8f3e08ee5a73ca4
+      internalID: -236909874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27205483999e31e499650c5a1a4d437e
+      internalID: 1849356535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 137
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d497876b5af1234e900eda6d80738a3
+      internalID: -462675254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f5a0b90ecb3641afbf2953784d3a5
+      internalID: 556503967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5cda29167b7864e8a1e99e3dad0f98
+      internalID: -1456675261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f50fc6295cf945a01b26dfff4b72a
+      internalID: -1105966338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf32f92d950a604e978e2ed310dc05f
+      internalID: -1013489145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d566c6845e4562489c84f5c3dfd739c
+      internalID: -1729914982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5eada3179b7b841a56457a9f0da549
+      internalID: 1658032708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818343127b227f74abf261057817c908
+      internalID: 1402224418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ed7d1dbcbb9b4f8510438641090a3
+      internalID: -1403058803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5eddad10449e4da0654869f6cf5ff
+      internalID: 1379792904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 137
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5622be0fa9b56c4084ad2c15ad53519
+      internalID: 1107871072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 101
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75003fd675fb44e9ad2bd807bff2d6
+      internalID: 381227045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 101
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490e33749f49f648b0dac6430afbb62
+      internalID: -1149584671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 101
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975a871b520e8643a1fbdc246d011f2
+      internalID: 624945338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 101
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2a9d2ef1efb445930bcb5a4617ff3
+      internalID: 1937097370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 101
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f55e7c1fff364bbbde0c8d1cd0f5d
+      internalID: -364646514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 103
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84b316c67d48e43a9a0a598ef93249
+      internalID: 1766945936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1388462ef2f3bc42bd3e9f10362b2df
+      internalID: 879607174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a4198a28166334ea12373ae205e8da
+      internalID: -1764259302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ae5f51c13e354aaff1482267ed6ee
+      internalID: -392535833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a547b27eea377f4ea0714807f4134fe
+      internalID: 514352859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2dbfae7df921e4cbfbe8a7171be04a
+      internalID: 685611803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d79a343560d174b86951fee7c5d4e5
+      internalID: -1932085651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e49481971e31a4e8a1faf061418f95
+      internalID: -255533393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b68abfcd4728c44938eb8a92a57bce
+      internalID: -132164785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 101
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670afed96275a7c49a5d971d7c32a358
+      internalID: 2028310618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 104
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70810c7d9baa7a141be3fec6ae03e449
+      internalID: -1642999387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f78c9669a6c84e90a6c01bac09bca
+      internalID: -2044302547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af88093f1fecc542b3651052dcf4539
+      internalID: 1922430736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 104
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32e7d68f0d79d54091fb0c9946aea58
+      internalID: 1780344322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522b5e2bdc6ab84481b70cf9d09a9ca
+      internalID: 1026265751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 104
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4247e61beee3ef94095d7e8078c70bf2
+      internalID: 313443965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_48
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a50c4bbe9439d247b685855b720f9d1
+      internalID: 981797230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_49
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee046440c5424445b6dfa9d5e3971ae
+      internalID: -312660570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_50
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 104
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce819eefebf89d47909b687c4718b11
+      internalID: 363116004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038884957a878e4dadd05039a7ce584
+      internalID: 703099371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16520c202daf70f4eb4601807913eea8
+      internalID: -1087620546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455289302c27de43acd6dc2c7029025
+      internalID: -1140733276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_54
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 104
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa99d4bf2e1bfb94295e0e9e70a1de35
+      internalID: -82868076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 1200
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbaa6e344ecdfc4b9a4109150db5ada
+      internalID: -231676316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0b7d1e74861b4faff4542f9b62ea4
+      internalID: 250370062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196fd46818b326418d2d3539063a025
+      internalID: 2028977320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b00bc69075cf4f978deed7390c776
+      internalID: 2028120776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 19
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca87d88d93765143b5a8f365bee0e32
+      internalID: -1453407295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 66
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35914fa21ce29bc4bafc69bd168cb0ed
+      internalID: 488189360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_61
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 65
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98185b917981a44850de7d88ef5062
+      internalID: -1883061062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9303408584e1044b5237cd95bfcd73
+      internalID: -198730495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 21
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cc75fdbd7de2478c73790342af5f0
+      internalID: -154850708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 19
+        width: 118
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104ee0856c274d44bf47491d3ca578f
+      internalID: -1063078928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25691a52d958547a66f55601a9060e
+      internalID: -1894543783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_66
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55708de989af494b8f85fcc702a6e56
+      internalID: 1007898947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_67
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 53
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b890851baafefd4095d30893b0515b6
+      internalID: -491233723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_68
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 52
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30671abc08ef3c34e8ab024584148fe8
+      internalID: -1464351559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_69
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b37e572f1959044b64f10d2311873b
+      internalID: -2132648876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 36
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db5377d0391db4591d03a64db5e0d4
+      internalID: 780618572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 36
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832a1574bde46143bccef141eeff960
+      internalID: 2111054272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_72
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 40
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f9d21b2bc16a4299ce698d40c598a
+      internalID: -1098099809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4aab1c1d8314642839c6aae6f9dab4
+      internalID: 717581762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70088746ac56f04baf34b5b7fd1067e
+      internalID: -958344936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_75
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 24
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8009f900a9103d2489d64177d5204d0e
+      internalID: -1901200137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trexSprite 1_76
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 101
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68608c04261d4c64dab0d8db69085e8e
+      internalID: -477977653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trexSprite 1_0: -818719448
+      trexSprite 1_1: 53504853
+      trexSprite 1_10: 32880340
+      trexSprite 1_11: 771270797
+      trexSprite 1_12: -405380836
+      trexSprite 1_13: 582065165
+      trexSprite 1_14: -236909874
+      trexSprite 1_15: 1849356535
+      trexSprite 1_16: -462675254
+      trexSprite 1_17: 556503967
+      trexSprite 1_18: -1456675261
+      trexSprite 1_19: -1105966338
+      trexSprite 1_2: -1645496903
+      trexSprite 1_20: -1013489145
+      trexSprite 1_21: -1729914982
+      trexSprite 1_22: 1658032708
+      trexSprite 1_23: 1402224418
+      trexSprite 1_24: -1403058803
+      trexSprite 1_25: 1379792904
+      trexSprite 1_26: 1107871072
+      trexSprite 1_27: 381227045
+      trexSprite 1_28: -1149584671
+      trexSprite 1_29: 624945338
+      trexSprite 1_3: -655772498
+      trexSprite 1_30: 1937097370
+      trexSprite 1_31: -364646514
+      trexSprite 1_32: 1766945936
+      trexSprite 1_33: 879607174
+      trexSprite 1_34: -1764259302
+      trexSprite 1_35: -392535833
+      trexSprite 1_36: 514352859
+      trexSprite 1_37: 685611803
+      trexSprite 1_38: -1932085651
+      trexSprite 1_39: -255533393
+      trexSprite 1_4: -1798292042
+      trexSprite 1_40: -132164785
+      trexSprite 1_41: 2028310618
+      trexSprite 1_42: -1642999387
+      trexSprite 1_43: -2044302547
+      trexSprite 1_44: 1922430736
+      trexSprite 1_45: 1780344322
+      trexSprite 1_46: 1026265751
+      trexSprite 1_47: 313443965
+      trexSprite 1_48: 981797230
+      trexSprite 1_49: -312660570
+      trexSprite 1_5: 754405277
+      trexSprite 1_50: 363116004
+      trexSprite 1_51: 703099371
+      trexSprite 1_52: -1087620546
+      trexSprite 1_53: -1140733276
+      trexSprite 1_54: -82868076
+      trexSprite 1_55: -231676316
+      trexSprite 1_56: 250370062
+      trexSprite 1_57: 2028977320
+      trexSprite 1_58: 2028120776
+      trexSprite 1_59: -1453407295
+      trexSprite 1_6: -1765282423
+      trexSprite 1_60: 488189360
+      trexSprite 1_61: -1883061062
+      trexSprite 1_62: -198730495
+      trexSprite 1_63: -154850708
+      trexSprite 1_64: -1063078928
+      trexSprite 1_65: -1894543783
+      trexSprite 1_66: 1007898947
+      trexSprite 1_67: -491233723
+      trexSprite 1_68: -1464351559
+      trexSprite 1_69: -2132648876
+      trexSprite 1_7: -2074649536
+      trexSprite 1_70: 780618572
+      trexSprite 1_71: 2111054272
+      trexSprite 1_72: -1098099809
+      trexSprite 1_73: 717581762
+      trexSprite 1_74: -958344936
+      trexSprite 1_75: -1901200137
+      trexSprite 1_76: -477977653
+      trexSprite 1_8: -920383934
+      trexSprite 1_9: 324392581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
